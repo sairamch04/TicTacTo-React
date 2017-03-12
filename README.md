@@ -4,10 +4,10 @@
 [Facebook intro to react](https://facebook.github.io/react/tutorial/tutorial.html)
 
 ### Below are the features of app
-* Lets you play tic-tac-toe,
-* Indicates when one player has won the game,
-* Stores the history of moves during the game,
-* Allows players to jump back in time to see older versions of the game board.
+* Lets you play tic-tac-toe
+* Indicates when one player has won the game
+* Stores the history of moves during the game
+* Allows players to jump back in time to see older versions of the game board
 
 
 ### How to setup
